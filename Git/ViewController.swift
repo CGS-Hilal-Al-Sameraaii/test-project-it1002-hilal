@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         label.text = "Hello"
         
         print("Version 1")
+        
+        print("No search function")
     }
 
     override func didReceiveMemoryWarning() {
