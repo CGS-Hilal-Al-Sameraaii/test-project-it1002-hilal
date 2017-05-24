@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         print("Version 1")
         
         print("No search function")
+
+        print("Yelo, there")
     }
 
     override func didReceiveMemoryWarning() {
